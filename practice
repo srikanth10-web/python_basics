@@ -1,0 +1,43 @@
+#simple print statement
+print("hello srikanth")
+
+#simple arithmetic operations
+print(1 + 2)
+print( 4 - 2)
+print(((4 + 3) * (8 - 3) / 3) ** 2)
+
+#comments
+#just us the symbol before every line if you dont want to execute or if you want to write comments
+#multiplication
+print(4 * 8)
+
+#create variables
+a = 4 
+print(a)
+
+#Manipulating the variable
+my_var = 3
+print(my_var)
+my_var = 100
+print(my_var)
+
+#both print statements are already present in other cells and executing well
+print(my_var)
+print(a)
+
+#add number to existing variable
+b = 3
+print(b)
+b= b+3
+print ( b )
+
+#Number of hours in a month
+num_of_hours_per_day = 24 
+days_in_month = 31
+total_hours_in_month = num_of_hours_per_day * days_in_month
+print(total_hours_in_month)
+
+#if days are 30
+days_in_month = 30
+total_hours_in_month = num_of_hours_per_day * days_in_month
+print(total_hours_in_month)
